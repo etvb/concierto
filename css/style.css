@@ -145,3 +145,23 @@ body {
 .list-group-item-success {
   background-color: #4cb8b3;
 }
+
+
+.boletos {
+  position: relative;
+}
+
+
+/* Botones */
+.btn-flotante {
+  width: 40px;
+  display: block;
+  position: fixed;
+  bottom: 15px;
+  right: 10px;
+}
+
+.btn-flotante img {
+  width: 100%; 
+}
+
